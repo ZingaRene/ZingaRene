@@ -1,10 +1,10 @@
 <table align="center" style="border: none;">
   <tr style="border: none;">
     <td width="30%" align="center" style="border: none;">
-      <img src="link_para_a_sua_imagem_Budapest.jpg" width="200px" style="border-radius: 15px;" alt="A minha foto">
+      <img src="Budapest.jpg" width="200px" style="border-radius: 15px;" alt="A minha foto">
     </td>
     <td width="70%" align="center" style="border: none;">
-      <img src="link_para_a_sua_imagem_Data_science.jpeg" width="100%" style="border-radius: 15px;" alt="Data Science">
+      <img src="Data science.jpeg" width="100%" style="border-radius: 15px;" alt="Data Science">
       <h2>Bem-vindo ao meu Portefólio! 🚀</h2>
     </td>
   </tr>
