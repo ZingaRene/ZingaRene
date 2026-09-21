@@ -10,13 +10,13 @@
 
 <br>
 
-*## 👋 Hello, I'm Zinga René
+*Hello, I'm Zinga René
 
 I’m passionate about **technology, data, artificial intelligence, and the development of digital solutions**.
 
-My background combines **statistics, mathematics, computing, physics, psychology, and neuroscience**, with practical experience building data and machine learning projects across **academic, business, healthcare, finance, and entertainment** domains.
+My background combines **statistics, mathematics, computing, physics, psychology, and neuroscience**, with practical experience building data and machine learning projects across **business, healthcare, finance, and entertainment** domains.
 
-### 🧠 Areas of Focus
+### Areas of Focus
 
 * **Data Science & Machine Learning**
 * **Deep Learning & AI**
@@ -25,13 +25,5 @@ My background combines **statistics, mathematics, computing, physics, psychology
 * **Data Visualization & Statistical Modeling**
 * **Generative AI & AI Agents**
 
-### 🛠️ Technologies
-
-**Python · SQL · R · Power BI · DAX · Git · Azure · AWS · GCP · Databricks · Streamlit**
-
-**Pandas · NumPy · Scikit-learn · TensorFlow · PyTorch · Matplotlib · Seaborn · Plotly · Statsmodels · LangChain**
-
-**Kafka · Spark · Hadoop · Elasticsearch · MongoDB · PostgreSQL · MySQL · Cassandra · InfluxDB · SQLite · ChromaDB · Qdrant**
-
-I enjoy transforming **data into knowledge and ideas into practical solutions**, while continuously learning and growing in the fields of **Data Science, Machine Learning, and Artificial Intelligence**. 🚀
+I enjoy transforming **data into knowledge and ideas into practical solutions**, while continuously learning and growing in the fields of **Data Science, Machine Learning, and Artificial Intelligence**.
 *
