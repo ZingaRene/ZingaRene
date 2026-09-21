@@ -1,16 +1,15 @@
-## Hi there 👋
+<table align="center" style="border: none;">
+  <tr style="border: none;">
+    <td width="30%" align="center" style="border: none;">
+      <img src="link_para_a_sua_imagem_Budapest.jpg" width="200px" style="border-radius: 15px;" alt="A minha foto">
+    </td>
+    <td width="70%" align="center" style="border: none;">
+      <img src="link_para_a_sua_imagem_Data_science.jpeg" width="100%" style="border-radius: 15px;" alt="Data Science">
+      <h2>Bem-vindo ao meu Portefólio! 🚀</h2>
+    </td>
+  </tr>
+</table>
 
-<!--
-**ZingaRene/ZingaRene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Aqui começa a sua descrição sobre si...*
