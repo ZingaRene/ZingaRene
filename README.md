@@ -10,7 +10,7 @@
 
 <br>
 
-*Hello, I'm Zinga René
+Hello, I'm Zinga René
 
 I’m passionate about **technology, data, artificial intelligence, and the development of digital solutions**.
 
@@ -26,4 +26,3 @@ My background combines **statistics, mathematics, computing, physics, psychology
 * **Generative AI & AI Agents**
 
 I enjoy transforming **data into knowledge and ideas into practical solutions**, while continuously learning and growing in the fields of **Data Science, Machine Learning, and Artificial Intelligence**.
-*
