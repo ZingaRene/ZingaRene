@@ -10,4 +10,4 @@
 
 <br>
 
-*Feel free to explore whatever you like, responsibly...*
+*...feel free to explore whatever you like, responsibly...*
